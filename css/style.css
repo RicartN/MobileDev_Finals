@@ -1,0 +1,72 @@
+body {
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    border-radius: 9px;
+    background-color:honeydew;
+}
+
+h2 {
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    border-radius: 9px;
+    background-color:honeydew;
+}
+
+.ffimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 9px;
+    width: 60%;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid;
+    opacity: 0.9;
+}
+
+table {
+    background-color: honeydew;
+    border-radius: 9px;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+td {
+    padding: 5px;
+}
+
+div {
+    border: 2px solid;
+    border-radius: 9px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 65%;
+    background-color:honeydew;
+    opacity: 0.9;
+}
+
+.applogo {
+    width: 22%;
+    display: inline;
+}
+
+.download {
+    width: 22%;
+    font-size: 1.4em;
+}
